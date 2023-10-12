@@ -7,7 +7,7 @@ class Preview extends Component {
     render() {
         return (
             <div id="preview" className="preview-container">
-                <Markdown gfm={true}>
+                <Markdown breaks={true} gfm={true}>
                     {this.props.content}
                 </Markdown>
             </div>
