@@ -29,7 +29,7 @@ export default function defaultMarkdown() {
         "        - That look like this.",
         "1. And there are numbered lists too.",
         "1. Use just 1s if you want!",
-        "1. And last but not least, let's not forget embedded images:",
+        "1. And last but not least, let's not forget embedded images:\n",
         "![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)",
     ];
     return elements.join("\n");

@@ -3,8 +3,8 @@
     max-height: calc(100vh - 4rem - 8px);
     overflow: auto;
     margin-left: 1rem;
-    background-color: green;
-    border: 4px solid pink;
+    background-color: rgb(240, 240, 240);
+    border: 4px solid rgb(170, 170, 170);
     border-radius: 1rem;
     padding: 0 0.5rem;
 }
